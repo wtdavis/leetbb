@@ -12,7 +12,7 @@ var isPalindrome = function(x) {
 
     }
 
-1234
+12346
 
 };
 
