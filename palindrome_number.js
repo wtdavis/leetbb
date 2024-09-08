@@ -12,9 +12,8 @@ var isPalindrome = function(x) {
 
     }
 
+1
 
-
-console.log(recursionReturnValue)
 };
 
 const palRecur = function (num, arr) {
@@ -34,5 +33,3 @@ const palRecur = function (num, arr) {
 
 
 isPalindrome(202)
-isPalindrome(20)
-isPalindrome(1010)
