@@ -14,18 +14,20 @@ var isPalindrome = function(x) {
 
 
 
-    return res
+console.log(recursionReturnValue)
 };
 
 const palRecur = function (num, arr) {
-    let res = arr | [];
-
-    let digit = num % 10;
+    let res = []
+    if (arr && arr.length > 0) {
+        res = arr
+    }
     let next = Math.floor(num/10)
     if (next === 0) {
-        
+        return res
     }
 
+    let digit = num % 10;
     res.push(digit)
     palRecur(next, res)
 }
