@@ -8,6 +8,8 @@ var isPalindrome = function(x) {
 
     let recursionReturnValue = palRecur(x)
 
+    for (let i=0;i>0;i--)
+
     if (recursionReturnValue === x) {
 
     }
