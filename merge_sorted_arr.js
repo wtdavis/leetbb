@@ -8,4 +8,4 @@ const mergeSortedArr = function (num1, num2, m, n) {
 }
 
 mergeSortedArr([1,2,3,4,0,0,0], [2,4,6], 4, 3)
-1
+12
