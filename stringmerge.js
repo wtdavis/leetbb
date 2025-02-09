@@ -37,6 +37,7 @@ const mergeAlternively = (word0, word1) => {
     1
     2
     3
+    4
     combine(arr0, arr1)
     console.log(res.join())
     return res.join()
