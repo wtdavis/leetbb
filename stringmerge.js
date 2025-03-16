@@ -48,6 +48,7 @@ const mergeAlternively = (word0, word1) => {
 3
 2
 1
+0
 
 derp
 derp
