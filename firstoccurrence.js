@@ -1,0 +1,3 @@
+function firstOccurrence(haystack, needle) {
+    
+}
