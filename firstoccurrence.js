@@ -10,5 +10,6 @@ function firstOccurrence(haystack, needle) {
         haystackHash[i] = haystackArr[i]
     }
 
-    
+    let index = null
+
 }
