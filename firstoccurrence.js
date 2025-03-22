@@ -12,4 +12,8 @@ function firstOccurrence(haystack, needle) {
 
     let index = null
 
+    for (let i=0;i<haystackArr.length;i++){
+        
+    }
+
 }
