@@ -1,3 +1,14 @@
 function firstOccurrence(haystack, needle) {
+    let needleHash = {}
+    let haystackHash = {}
+    let needleArr = needle.split()
+    let haystackArr = haystack.split()
+    for (let i=0;i<needleArr.length;i++){
+        needleHash[i] = needleArr[i]
+    }
+    for (let i=0;i<haystackArr.length;i++){
+        haystackHash[i] = haystackArr[i]
+    }
+
     
 }
