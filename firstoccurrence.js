@@ -14,11 +14,11 @@ function firstOccurrence(haystack, needle) {
     let index = null
 
     function compare () {
-        
+        for (let i=0;i<haystackArr.length;i++){
+            if (needleHash[i] === haystackArr[i]) {}
+        }
+
     }
 
-    for (let i=0;i<haystackArr.length;i++){
-        
-    }
 
 }
