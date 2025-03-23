@@ -10,7 +10,12 @@ function firstOccurrence(haystack, needle) {
         haystackHash[i] = haystackArr[i]
     }
 
+
     let index = null
+
+    function compare () {
+        
+    }
 
     for (let i=0;i<haystackArr.length;i++){
         
