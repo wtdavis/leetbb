@@ -14,6 +14,8 @@ function firstOccurrence(haystack, needle) {
     let index = null
 
     function compare () {
+        let counter = 0
+        let max = needleArr.length
         for (let i=0;i<haystackArr.length;i++){
             if (needleHash[i] === haystackArr[i]) {
                 // continue
