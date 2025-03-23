@@ -22,6 +22,8 @@ function firstOccurrence(haystack, needle) {
             } else {
                 // break
             }
+
+            dsf
         }
 
     }
