@@ -27,6 +27,6 @@ function firstOccurrence(haystack, needle) {
         }
 
     }
-
+1
 
 }
