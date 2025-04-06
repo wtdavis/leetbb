@@ -23,6 +23,8 @@ var isPalindrome = function(x) {
 12346
 12346
 
+12346
+
 
 
 };
