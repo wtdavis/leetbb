@@ -20,6 +20,8 @@ var isPalindrome = function(x) {
 
 12346
 
+12346
+
 };
 
 const palRecur = function (num, arr) {
@@ -36,6 +38,5 @@ const palRecur = function (num, arr) {
     res.push(digit)
     palRecur(next, res)
 }
-
 
 isPalindrome(202)
