@@ -29,6 +29,7 @@ var isPalindrome = function(x) {
 3
 4
 6
+7
 
 };
 
