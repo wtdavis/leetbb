@@ -26,7 +26,7 @@ var isPalindrome = function(x) {
 12346
 1
 2
-
+3
 
 };
 
